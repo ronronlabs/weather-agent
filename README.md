@@ -1,6 +1,8 @@
 ## Weather Agent for Daily Activity Recommendations
 An agent to provide daily activity recommendations (walks, indoor options) based on a user-defined location's weather, air quality, and weather event warnings. Built with Python in Google Colab for a portfolio project, it processes geocoding, weather, air quality, and park data to deliver email summaries.
 
+![Agent Output](screenshot.png)
+
 
 ## Features
 - Geocoding: Converts user address to coordinates using Geopy.
@@ -32,8 +34,6 @@ If you're up for a longer bike ride, the Des Bassins Place | Lachine Canal Natio
 
 Remember to heed the air quality advisory: If you experience any respiratory discomfort, reduce your activity level and head indoors. Consider limiting your time near busy streets.
 
-## Screenshot
-![Agent Output](screenshot.png)
 
 ## Setup
 
