@@ -37,7 +37,7 @@ Remember to heed the air quality advisory: If you experience any respiratory dis
 
 ## Setup
 
-1. Clone the repository: git clone https://github.com/pegasuschild/weather-agent.git.
+1. Clone the repository: git clone https://github.com/ronronlabs/weather-agent
 
 2. Open weather_agent.ipynb in Google Colab.
 
